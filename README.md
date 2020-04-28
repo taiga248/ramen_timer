@@ -2,7 +2,7 @@
 
 This application is very simple.
 
-It just tells you when the ramen is ready.
+A sound informs you that the ramen is ready.
 
 It has no other function.
 
